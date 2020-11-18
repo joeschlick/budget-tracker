@@ -51,14 +51,13 @@ If you have any questions about the repo, open an issue or contact [joeschlick](
 
 ## Links:
 
-Repository link: https://github.com/joeschlick/workout-tracker
+Repository link: https://github.com/joeschlick/budget-tracker
 
-Deployed application link: https://sheltered-inlet-81142.herokuapp.com
+Deployed application link: https://polar-chamber-42631.herokuapp.com/
 
 ## Media:
 
-Screenshot: ![Screen Shot 2020-11-08 at 1 29 41 AM](https://user-images.githubusercontent.com/66143571/98462656-c0cf6780-216a-11eb-9f0b-27ed43fe4124.png)
-![Screen Shot 2020-11-08 at 1 30 40 AM](https://user-images.githubusercontent.com/66143571/98462666-c5941b80-216a-11eb-9287-80e76b423166.png)
+Screenshot: ![Screen Shot 2020-11-18 at 12 41 28 AM](https://user-images.githubusercontent.com/66143571/99506353-d6951780-2936-11eb-9076-cf8c5466d05a.png)
 
 Video: None
 
